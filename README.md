@@ -4,7 +4,7 @@
 ## Mariam Tsilosani
 
 
-######This is an indexing program that recieves a set of files, parses through them and creates an inverted index, which maps each token found in the files to the subset of files that contain that token and also the frequency with which each token appears in each file.
+######This is an indexing program that receives a set of files, parses through them and creates an inverted index, which maps each token found in the files to the subset of files that contain that token and also the frequency with which each token appears in each file.
 
 ######Here is an example of how indexer works:
 
